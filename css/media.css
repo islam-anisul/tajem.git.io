@@ -1,0 +1,396 @@
+@media (max-width: 1199.98px) {}
+
+
+@media (max-width: 991.98px) {
+    
+           .header_bg,.navbar{
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+    .banner_overly {
+	padding-top: 195px;
+	padding-bottom: 70px;
+}
+    
+    
+    .banner_item button {
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+    
+    .story_right_text p {
+	margin-top: 20px;
+}
+    
+    
+    .story_video_overly {
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+    #expertise {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+    
+    .expertise_content {
+	margin-top: 65px;
+}
+    
+    .expertise_item{
+        margin-top: -15px;
+    }
+    
+    
+    .form_top h3 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+    .happy_client h3 {
+	text-align: center;
+	margin-top: 30px;
+}
+    
+     .img_left, .img_right {
+	padding: 0;
+     margin: 0 auto;
+}   
+
+    .footer_menu p:last-child {
+	margin-top: 25px;
+}
+    
+    .footer_address_text p {
+	margin-top: 10px;
+}
+    .address_icon{
+        margin-top: 10px;
+    }
+    
+    .footer_social h4 {
+	text-align: center;
+	margin-top: 45px;
+}
+    .footer_subscribe {
+	margin-top: 40px;
+}
+    
+    
+    .social_link {
+	margin-top: 35px;
+}
+    .footer_overly {
+	padding-bottom: 35px;
+}
+    .navbar-collapse {
+	text-align: center;
+	background: rgba(0,0,0,0.7);
+}
+    
+}
+
+
+
+
+
+
+
+
+@media (max-width: 767.98px) {
+    
+        .header_bg,.navbar{
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+    
+    .banner_overly {
+	padding-top: 170px;
+	padding-bottom: 65px;
+}
+    
+        .banner_item button {
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+    
+    .story_text {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	text-align: center;
+}
+    
+    .story_right_text .title{
+        margin-top: 35px;
+    }
+    
+    .story_right_text p {
+	margin-top: 20px;
+}
+    
+    .story_video_overly {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+    
+    #expertise {
+	padding-top: 45px;
+	padding-bottom: 65px;
+}
+    
+    .expertise_content {
+	margin-top: 60px;
+}
+    
+    
+    #work {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+    
+    .gallery_button button{
+	padding: 5px;
+
+    }
+    
+    .gallery_load{
+        text-align: center;
+    }
+
+    
+    .testimoni_overly {
+	padding-top: 55px;
+	padding-bottom: 55px;
+}
+    
+    #contact {
+	padding-top: 55px;
+	padding-bottom: 55px;
+}
+    .happy_client h3 {
+	text-align: center;
+	margin-top: 40px;
+}
+    
+    .footer_overly {
+	text-align: center;
+}
+    
+    .footer_menu p:last-child {
+	margin-top: 30px;
+}
+    
+    .footer_address_text p,.phone_number p {
+	padding-left: 25px;
+}
+    
+    .footer_social h4,.footer_address h4 {
+	margin-top: 30px;
+}
+ 
+    .address_text {
+	margin-top: 20px;
+}
+    
+    .footer_social{
+        text-align: center !important;
+    }
+    
+        .footer_subscribe #subscribe{
+        margin-left: auto;
+    }
+    
+    .footer_subscribe .footer_btn{
+        margin-right: auto;
+    }
+    
+        .social_link {
+	margin-top: 40px;
+}
+    
+    .footer_copyright p {
+	text-align: center;
+}
+}
+
+/*--------EXTRA SMALL DEVICE-------*/
+
+@media (max-width: 575.98px) {
+ 
+    .header_bg,.navbar{
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+    
+    .banner_overly {
+	padding-top: 120px;
+	padding-bottom: 50px;
+    }
+    
+    .banner_item p {
+	margin-top: 60px;
+	font-size: 15px;
+}
+    
+    .banner_item button {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+    
+    .story_text {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+    
+    .story_right_text .title {
+	margin-top: 25px;
+}
+    .story_right_text p {
+	margin-top: 25px;
+	font-size: 15px;
+}
+    
+    .story_video_overly {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+    
+    #expertise {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    
+    .expertise_content {
+	margin-top: 50px;
+}
+    
+    
+    .team_overly {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    
+    #work {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    .gallery_button .btn {
+	margin: 5px;
+	padding: 2px 1px;
+}
+    .gallery_load{
+        text-align: center;
+    } 
+    
+    
+    .gal_btn {
+	margin-top: 50px;
+}
+    
+    .testimoni_overly {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    
+    .testimoni_item p {
+	font-size: 15px;
+	margin-top: 40px;
+}
+    
+    #contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+    .form_top .title {
+	font-size: 28px;
+}
+    .form-group .buttons {
+	margin-top: 20px;
+}
+    .happy_client h3 {
+	margin-top: 20px;
+        text-align: center !important;
+}
+
+ .img_left {
+	padding: 0;
+     margin: 0 auto;
+}   
+    
+    .img_right {
+	padding: 0;
+        margin: 0 auto;
+}
+    .clients_img .img_left img,.clients_img .img_right img {
+	height: 35px;
+	width: 110px;
+}
+
+    
+    .footer_overly {
+	padding-top: 50px;
+	padding-bottom: 50px;
+        text-align: center;
+    }
+    
+    .footer_menu p:last-child {
+	margin-top: 25px;
+}
+    
+    .footer_address h4 {
+	margin-top: 25px;
+}
+    .footer_address_text p {
+
+	margin-top: -20px;
+}
+
+    
+    .footer_social h4 {
+	margin-top: 25px;
+}
+    
+    .footer_menu_link{
+        margin-top: 20px;
+    }
+    
+    .footer_menu_link a {
+	margin-left: 10px;
+}
+    .footer_copyright {
+	margin-top: 40px;
+        text-align: center !important;
+}
+    
+    .social_link {
+	margin-top: 40px;
+}
+    .footer_subscribe #subscribe{
+        margin-left: auto;
+    }
+    
+    .footer_subscribe .footer_btn{
+        margin-right: auto;
+    }
+    .address_icon {
+	margin-top: -18px !important;
+}
+    .footer_address_text p, .phone_number p {
+	padding-left: 20px;
+}
+    .footer_address_text p {
+	margin-top: -20px;
+	text-align: left;
+}
+    
+}
+
+@media (max-width: 360px) {
+    .address_icon {
+	margin-top: -18px !important;
+}
+    .footer_address_text p, .phone_number p {
+	padding-left: 20px;
+}
+    .footer_address_text p {
+	margin-top: -20px;
+	text-align: left;
+}
+}
